@@ -1,2 +1,2 @@
 usuario = "ricardo"
-senha = uc
+senha = "uc"
